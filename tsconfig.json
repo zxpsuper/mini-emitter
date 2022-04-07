@@ -10,7 +10,7 @@
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "declarationDir": "lib/types",
+    "declarationDir": "types",
     "outDir": "lib/lib",
     "typeRoots": [
       "node_modules/@types"

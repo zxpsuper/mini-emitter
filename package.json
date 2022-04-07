@@ -4,7 +4,7 @@
   "description": "A small event emitter",
   "main": "lib/mini-emitter.umd.js",
   "module": "lib/mini-emitter.es5.js",
-  "typings": "lib/types/mini-emitter.d.ts",
+  "typings": "types/mini-emitter.d.ts",
   "directories": {
     "doc": "docs",
     "test": "test"
