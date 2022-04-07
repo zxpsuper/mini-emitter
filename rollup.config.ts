@@ -35,6 +35,6 @@ export default {
     resolve(),
 
     // Resolve source maps to the original source
-    sourceMaps()
+    // sourceMaps()
   ]
 }
